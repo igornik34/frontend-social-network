@@ -1,0 +1,1 @@
+export const AUTH_KEY_LS = 'USER_AUTH_DATA'
